@@ -3,8 +3,8 @@ body {
     background: rgb(2, 0, 36);
     background: linear-gradient(90deg,
             rgba(2, 0, 36, 1) 0%,
-            rgba(23, 157, 116, 1) 35%,
-            rgba(0, 212, 255, 1) 100%);
+            rgb(11, 117, 85) 35%,
+            rgb(10, 48, 56) 100%);
 }
 
 .fixed-header {
@@ -14,8 +14,8 @@ body {
     background: rgb(2, 0, 36);
     background: linear-gradient(90deg,
             rgba(2, 0, 36, 1) 0%,
-            rgba(23, 157, 116, 1) 35%,
-            rgba(0, 212, 255, 1) 100%);
+            rgb(115, 23, 157) 35%,
+            rgb(204, 113, 29) 100%);
     padding: 10px 0;
     color: #fff;
     top: 0;
